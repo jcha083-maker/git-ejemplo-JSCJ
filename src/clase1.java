@@ -5,5 +5,6 @@ public class clase1 {
     System.out.println("Primera linea de texto");
     System.out.println("Segunda linea de texto");
     System.out.println("Cuantos lineas de texto");
+    System.out.println("-----------------------------");
     }
 }
