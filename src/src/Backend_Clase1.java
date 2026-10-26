@@ -1,0 +1,18 @@
+package src;
+
+import java.util.Scanner;
+
+public class Backend_Clase1 {
+    public static void main(String[] args) {
+    System.out.println("Primera linea de texto");
+    System.out.println("Segunda linea de texto");
+    System.out.println("cuarto lineas de texto");
+    System.out.println("quintos lineas de texto");
+    System.out.println("quinto lineas de texto");
+    System.out.println("-----------------------------");
+    Scanner leer = new Scanner(System.in);
+    String linea = leer.next();
+    String texto = leer.next();
+    System.out.println(linea);
+    }
+}
