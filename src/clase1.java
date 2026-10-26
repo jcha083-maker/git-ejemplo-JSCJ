@@ -12,6 +12,6 @@ public class clase1 {
     String linea = leer.next();
     String texto = leer.next();
     System.out.println(linea);
-    System.out.println("Añadido despues de la rama de desarrollo");
+    System.out.println("Añadido después de la rama de desarrollo");
     }
 }
