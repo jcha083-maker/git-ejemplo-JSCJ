@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class clase1 {
     public static void main(String[] args) {
-    System.out.println("Primera linea de texto");
+    System.out.println("Primera linea de texto modificado en diseño");
     System.out.println("Segunda linea de texto");
     System.out.println("cuarto lineas de texto");
     System.out.println("quintos lineas de texto");
